@@ -51,9 +51,9 @@ $plugins->add_hook("postbit_prev", "imiconspostbit_run");
 function imiconspostbit_info()
 {
 	return array(
-		"name"				=> "IM Icons on Postbit",
-		"description"		=> "Adds instant messaging icons on the postbit.",
-		"website"			=> "http://galaxiesrealm.com/index.php",
+		"name"				=> "آیکون پیام فوری در پست بیت",
+		"description"		=> 'اضافه کردن آیکون پیام فوری در پست بیت.<br />ترجمه به دست <a href="http://amk2080.ir/index.php" target="_blank">علیرضا محرابی کالی</a>',
+		"website"			=> "http://my-bb.ir",
 		"author"			=> "Starpaul20",
 		"authorsite"		=> "http://galaxiesrealm.com/index.php",
 		"version"			=> "1.1",
